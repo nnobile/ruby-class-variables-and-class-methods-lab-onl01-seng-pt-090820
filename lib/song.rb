@@ -8,3 +8,5 @@ class Song
     @@album_count += 1
   end
 end
+
+Song.new(:name, :artist, :genre)
