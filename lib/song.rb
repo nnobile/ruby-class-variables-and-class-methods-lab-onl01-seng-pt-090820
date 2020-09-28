@@ -12,3 +12,5 @@ def class_variable_set
   @@count += 1
 end
 end
+end
+
