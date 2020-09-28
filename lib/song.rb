@@ -11,7 +11,6 @@ class Song
     @@genre
   end
 
-
-
-
 end
+
+song_name = Song.new
