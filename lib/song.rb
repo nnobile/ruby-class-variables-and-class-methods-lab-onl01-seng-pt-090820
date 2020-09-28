@@ -7,6 +7,5 @@ class Song
   def initialize
     @@album_count += 1
   end
-end
 
 Song.new(:name, :artist, :genre)
