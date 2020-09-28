@@ -7,6 +7,8 @@ class Song
 
   def initialize
     @@count += 1
+    @@name
+    @@genre
   end
 
 
