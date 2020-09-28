@@ -8,6 +8,3 @@ class Song
     @@album_count += 1
   end
 end
-
-
-  
