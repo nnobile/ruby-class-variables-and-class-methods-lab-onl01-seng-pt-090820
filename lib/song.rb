@@ -16,4 +16,3 @@ end
 def self.count
   return @@count
 end
-end
