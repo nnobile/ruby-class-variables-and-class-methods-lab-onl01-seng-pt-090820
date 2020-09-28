@@ -34,7 +34,7 @@ class Song
     @@genres.each do |genre|
       if new_genre_count[genre]
         new_genre_count[genre] += 1
-      else 
+      else
         new_genre_count[genre] = 1
       end
     end
