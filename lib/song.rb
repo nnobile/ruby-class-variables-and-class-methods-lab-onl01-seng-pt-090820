@@ -11,3 +11,4 @@ def initialize(name, artist, genre)
 def class_variable_set
   @@count += 1
 end
+end
