@@ -29,7 +29,7 @@ class Song
     @@genres.uniq
   end
 
-  def self.genre_count(genres, number)
+  def self.genre_count
     binding.pry
   end
 
