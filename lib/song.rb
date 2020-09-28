@@ -26,5 +26,3 @@ class Song
   @@genres
   end
 end
-
-Song.count
